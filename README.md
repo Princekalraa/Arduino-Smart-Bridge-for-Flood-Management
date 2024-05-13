@@ -4,7 +4,7 @@ Flooding is a recurring natural disaster that leads to severe damage to infrastr
 
 The Arduino Smart Bridge system comprises three main components: a soil moisture sensor, an Arduino microcontroller, and a servo motor. The soil moisture sensor continuously measures the moisture level in the soil, and when it reaches a predetermined threshold, the Arduino triggers the servo motor to open the bridge.
 
- <b>Components Used</b>
+ <b>Components Used</b><br>
 •	Arduino Uno<br>
 •	Soil Moisture Sensor<br>
 •	Servo Motors<br>
